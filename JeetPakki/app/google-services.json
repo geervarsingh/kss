@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97440698604",
+    "project_id": "jeet-pakki",
+    "storage_bucket": "jeet-pakki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97440698604:android:932de233f7cc7a40c815c9",
+        "android_client_info": {
+          "package_name": "bhobhli.kss.jeetpakki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97440698604-f74molfhu10kmtlaie4boo7as1j8hp4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATccL6XAQiFCrGyqBpYqYpqotyyhj587w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97440698604-f74molfhu10kmtlaie4boo7as1j8hp4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
